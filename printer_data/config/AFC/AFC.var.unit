@@ -6,7 +6,7 @@
             "hub": "NightOwl_Hub",
             "extruder": "extruder",
             "buffer": "TN",
-            "buffer_status": "Advancing",
+            "buffer_status": "Unknown",
             "lane": 1,
             "map": "T0",
             "load": false,
@@ -32,7 +32,7 @@
             "hub": "NightOwl_Hub",
             "extruder": "extruder",
             "buffer": "TN",
-            "buffer_status": "Advancing",
+            "buffer_status": "Unknown",
             "lane": 2,
             "map": "T1",
             "load": false,
@@ -45,7 +45,7 @@
             "empty_spool_weight": 323.0,
             "spool_id": 10,
             "color": "#5c7097",
-            "weight": 801.0,
+            "weight": 798.2953928942502,
             "extruder_temp": 260,
             "runout_lane": null,
             "filament_status": "Not Ready",
@@ -64,7 +64,7 @@
             }
         },
         "bypass": {
-            "enabled": 1
+            "enabled": false
         }
     }
 }
