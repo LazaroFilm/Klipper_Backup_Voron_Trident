@@ -24,7 +24,7 @@
             "runout_lane": null,
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
-            "status": "None",
+            "status": "Tool Unloading",
             "dist_hub": 95.0
         },
         "lane2": {
