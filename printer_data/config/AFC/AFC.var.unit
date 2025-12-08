@@ -25,7 +25,8 @@
             "filament_status": "In Tool",
             "filament_status_led": "#0000ff",
             "status": "Tooled",
-            "dist_hub": 95.0
+            "dist_hub": 95.0,
+            "td1_data": {}
         },
         "lane2": {
             "name": "lane2",
@@ -52,7 +53,8 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
-            "dist_hub": 95.0
+            "dist_hub": 95.0,
+            "td1_data": {}
         }
     },
     "system": {
