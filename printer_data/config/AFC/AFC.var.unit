@@ -1,0 +1,74 @@
+{
+    "NightOwl": {
+        "lane1": {
+            "name": "lane1",
+            "unit": "NightOwl",
+            "hub": "NightOwl_Hub",
+            "extruder": "extruder",
+            "buffer": "TN",
+            "buffer_status": "Advancing",
+            "lane": 1,
+            "map": "T0",
+            "load": true,
+            "prep": true,
+            "tool_loaded": true,
+            "loaded_to_hub": true,
+            "material": "PLA+",
+            "density": 1.23,
+            "diameter": 1.75,
+            "empty_spool_weight": 265.0,
+            "spool_id": 8,
+            "color": "#000000",
+            "weight": 490.5483146328409,
+            "extruder_temp": 220,
+            "runout_lane": null,
+            "filament_status": "In Tool",
+            "filament_status_led": "#0000ff",
+            "status": "Tooled",
+            "dist_hub": 95.0,
+            "td1_data": {}
+        },
+        "lane2": {
+            "name": "lane2",
+            "unit": "NightOwl",
+            "hub": "NightOwl_Hub",
+            "extruder": "extruder",
+            "buffer": "TN",
+            "buffer_status": "Advancing",
+            "lane": 2,
+            "map": "T1",
+            "load": true,
+            "prep": true,
+            "tool_loaded": false,
+            "loaded_to_hub": true,
+            "material": "PLA+",
+            "density": 1.24,
+            "diameter": 1.75,
+            "empty_spool_weight": 170.0,
+            "spool_id": 6,
+            "color": "#ffffff",
+            "weight": 622.1075289750224,
+            "extruder_temp": 220,
+            "runout_lane": null,
+            "filament_status": "Ready",
+            "filament_status_led": "#00cc00",
+            "status": "Loaded",
+            "dist_hub": 95.0,
+            "td1_data": {}
+        }
+    },
+    "system": {
+        "current_load": "lane1",
+        "num_units": 1,
+        "num_lanes": 2,
+        "num_extruders": 1,
+        "extruders": {
+            "extruder": {
+                "lane_loaded": "lane1"
+            }
+        },
+        "bypass": {
+            "enabled": false
+        }
+    }
+}
