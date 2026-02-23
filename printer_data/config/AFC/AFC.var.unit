@@ -13,14 +13,14 @@
             "prep": true,
             "tool_loaded": false,
             "loaded_to_hub": true,
-            "material": null,
-            "density": 1.24,
+            "material": "PLA+",
+            "density": 1.23,
             "diameter": 1.75,
             "empty_spool_weight": 265.0,
-            "spool_id": null,
-            "color": "",
-            "weight": 1000,
-            "extruder_temp": null,
+            "spool_id": 8,
+            "color": "#000000",
+            "weight": 486.80547246231765,
+            "extruder_temp": 220,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
@@ -41,14 +41,14 @@
             "prep": true,
             "tool_loaded": false,
             "loaded_to_hub": true,
-            "material": null,
+            "material": "PLA+",
             "density": 1.24,
             "diameter": 1.75,
             "empty_spool_weight": 170.0,
-            "spool_id": null,
-            "color": "",
-            "weight": 1000,
-            "extruder_temp": null,
+            "spool_id": 6,
+            "color": "#ffffff",
+            "weight": 622.1075289750224,
+            "extruder_temp": 220,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
@@ -68,7 +68,7 @@
             }
         },
         "bypass": {
-            "enabled": 1
+            "enabled": 0
         }
     }
 }
