@@ -17,6 +17,7 @@
             "density": 1.23,
             "diameter": 1.75,
             "empty_spool_weight": 265.0,
+            "remember_spool": false,
             "spool_id": 8,
             "color": "#000000",
             "weight": 394.4559859863765,
@@ -26,7 +27,8 @@
             "filament_status_led": "#00cc00",
             "status": "Loaded",
             "dist_hub": 90.0,
-            "td1_data": {}
+            "td1_data": {},
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
         },
         "lane2": {
             "name": "lane2",
@@ -45,6 +47,7 @@
             "density": 1.24,
             "diameter": 1.75,
             "empty_spool_weight": 170.0,
+            "remember_spool": false,
             "spool_id": 6,
             "color": "#ffffff",
             "weight": 591.6629226809534,
@@ -54,7 +57,8 @@
             "filament_status_led": "#0000ff",
             "status": "Tooled",
             "dist_hub": 85.0,
-            "td1_data": {}
+            "td1_data": {},
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
         }
     },
     "system": {
