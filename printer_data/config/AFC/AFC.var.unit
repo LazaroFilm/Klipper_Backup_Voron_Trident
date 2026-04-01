@@ -6,7 +6,7 @@
             "hub": "NightOwl_Hub",
             "extruder": "extruder",
             "buffer": "TN",
-            "buffer_status": "Unknown",
+            "buffer_status": "Trailing",
             "lane": 1,
             "map": "T0",
             "load": true,
@@ -36,7 +36,7 @@
             "hub": "NightOwl_Hub",
             "extruder": "extruder",
             "buffer": "TN",
-            "buffer_status": "Unknown",
+            "buffer_status": "Trailing",
             "lane": 2,
             "map": "T1",
             "load": true,
@@ -72,7 +72,7 @@
             }
         },
         "bypass": {
-            "enabled": false
+            "enabled": 1
         }
     }
 }
