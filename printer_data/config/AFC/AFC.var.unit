@@ -26,7 +26,7 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "None",
-            "dist_hub": 49.72,
+            "dist_hub": 48.63,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
         },
@@ -56,7 +56,7 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Calibrating",
-            "dist_hub": 47.69,
+            "dist_hub": 47.87,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
         }
