@@ -11,7 +11,7 @@
             "map": "T0",
             "load": true,
             "prep": true,
-            "tool_loaded": true,
+            "tool_loaded": false,
             "loaded_to_hub": true,
             "material": "PETG",
             "density": 1.24,
@@ -23,9 +23,9 @@
             "weight": 446.26258969816524,
             "extruder_temp": 240,
             "runout_lane": null,
-            "filament_status": "In Tool",
-            "filament_status_led": "#0000ff",
-            "status": "Tool Unloading",
+            "filament_status": "Ready",
+            "filament_status_led": "#00cc00",
+            "status": "Tool Loading",
             "dist_hub": 47.63,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
@@ -62,13 +62,13 @@
         }
     },
     "system": {
-        "current_load": "lane1",
+        "current_load": null,
         "num_units": 1,
         "num_lanes": 2,
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": "lane1"
+                "lane_loaded": ""
             }
         },
         "bypass": {
