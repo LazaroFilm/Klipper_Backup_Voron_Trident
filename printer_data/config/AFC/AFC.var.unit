@@ -1,0 +1,82 @@
+{
+    "NightOwl": {
+        "lane1": {
+            "name": "lane1",
+            "unit": "NightOwl",
+            "hub": "NightOwl_Hub",
+            "extruder": "extruder",
+            "buffer": "TN",
+            "buffer_status": "Advancing",
+            "lane": 1,
+            "map": "T0",
+            "load": true,
+            "prep": true,
+            "tool_loaded": false,
+            "loaded_to_hub": true,
+            "material": "PLA+",
+            "density": 1.23,
+            "diameter": 1.75,
+            "empty_spool_weight": 265.0,
+            "need_purge": false,
+            "remember_spool": false,
+            "spool_id": 8,
+            "color": "#000000",
+            "weight": 324.5269664911234,
+            "extruder_temp": 220,
+            "bed_temp": 60,
+            "runout_lane": null,
+            "filament_status": "Ready",
+            "filament_status_led": "#00cc00",
+            "status": "Loaded",
+            "dist_hub": 47.63,
+            "td1_data": {},
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane1_prep,lane1_load,lane1_tool"
+        },
+        "lane2": {
+            "name": "lane2",
+            "unit": "NightOwl",
+            "hub": "NightOwl_Hub",
+            "extruder": "extruder",
+            "buffer": "TN",
+            "buffer_status": "Advancing",
+            "lane": 2,
+            "map": "T1",
+            "load": true,
+            "prep": true,
+            "tool_loaded": false,
+            "loaded_to_hub": true,
+            "material": "PETG",
+            "density": 1.24,
+            "diameter": 1.75,
+            "empty_spool_weight": 231.0,
+            "need_purge": false,
+            "remember_spool": false,
+            "spool_id": 4,
+            "color": "#000000",
+            "weight": 358.6915138058306,
+            "extruder_temp": 240,
+            "bed_temp": 90,
+            "runout_lane": null,
+            "filament_status": "Ready",
+            "filament_status_led": "#00cc00",
+            "status": "Loaded",
+            "dist_hub": 47.65,
+            "td1_data": {},
+            "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane2_prep,lane2_load,lane2_tool"
+        }
+    },
+    "system": {
+        "current_load": null,
+        "num_units": 1,
+        "num_lanes": 2,
+        "num_extruders": 1,
+        "extruders": {
+            "extruder": {
+                "lane_loaded": null
+            }
+        },
+        "bypass": {
+            "enabled": false
+        }
+    }
+}
